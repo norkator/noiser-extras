@@ -1,0 +1,16 @@
+[
+  {
+    "key": 1,
+    "queryKey": "los-dance",
+    "name": "los40 dance",
+    "icon": null,
+    "audioSrc": "https://21273.live.streamtheworld.com/LOS40_DANCE.mp3"
+  },
+  {
+    "key": 2,
+    "queryKey": "los-urban",
+    "name": "los40 urban",
+    "icon": null,
+    "audioSrc": "https://21233.live.streamtheworld.com/LOS40_URBANAAC.aac"
+  }
+]
