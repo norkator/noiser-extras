@@ -1,6 +1,6 @@
 [
   {
-    "name": "Test radio",
+    "name": "Spanish radio",
     "streams": [
       {
         "key": 1,
@@ -15,12 +15,7 @@
         "name": "los40 urban",
         "icon": null,
         "audioSrc": "https://21233.live.streamtheworld.com/LOS40_URBANAAC.aac"
-      }
-    ]
-  },
-  {
-    "name": "Test radio 2",
-    "streams": [
+      },
       {
         "key": 3,
         "queryKey": "los-classic",
@@ -35,6 +30,11 @@
         "icon": null,
         "audioSrc": "https://21233.live.streamtheworld.com/LOS40AAC.aac"
       }
+    ]
+  },
+  {
+    "name": "Placeholder",
+    "streams": [
     ]
   }
 ]
