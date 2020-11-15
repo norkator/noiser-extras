@@ -36,12 +36,6 @@
         "name": "hitsradio rnb",
         "icon": null,
         "audioSrc": "https://17563.live.streamtheworld.com/977_JAMZ.mp3"
-      },
-      {
-        "queryKey": "bbc-radio-one-xtra",
-        "name": "bbc radio 1xtra",
-        "icon": null,
-        "audioSrc": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p"
       }
     ]
   },
