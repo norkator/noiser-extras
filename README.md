@@ -27,6 +27,7 @@ Adding streams
 -----
 `streams.json` is an array having objects. Each object must have name and then streams array. 
 * Try have name being as short as possible but describing streams array content.
+* Add right stream `country` based on clicking country at [noiser.io](http://noiser.io/) and seeing for browser console for output name.
 * Make valid json, use current file content as example. Non valid json is not a problem. Maintainer will verify.
 
 `queryKey` = must be unique, used for local storage current state saving.  
