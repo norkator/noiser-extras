@@ -1,6 +1,7 @@
 [
   {
     "name": "Spanish radio",
+    "country": "Spain",
     "streams": [
       {
         "queryKey": "los-dance",
@@ -30,6 +31,7 @@
   },
   {
     "name": "Classic hip hop",
+    "country": "United States",
     "streams": [
       {
         "queryKey": "hits-radio-rnb",
@@ -41,6 +43,7 @@
   },
   {
     "name": "Finnish radio",
+    "country": "Finland",
     "streams": [
       {
         "queryKey": "radio-rock",
