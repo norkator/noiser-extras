@@ -56,6 +56,12 @@
         "name": "Kiss",
         "icon": null,
         "audioSrc": "https://stream.bauermedia.fi/kiss/kiss_128.mp3"
+      },
+      {
+        "queryKey": "kasari",
+        "name": "Kasari",
+        "icon": null,
+        "audioSrc": "https://stream.bauermedia.fi/kasari/kasari_64.aac"
       }
     ]
   },
