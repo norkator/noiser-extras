@@ -58,5 +58,17 @@
         "audioSrc": "https://stream.bauermedia.fi/kiss/kiss_128.mp3"
       }
     ]
+  },
+  {
+    "name": "China",
+    "country": "China",
+    "streams": [
+      {
+        "queryKey": "i-radio-fm96",
+        "name": "I Radio FM96",
+        "icon": null,
+        "audioSrc": "http://n13a-eu.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABe1BmLuAA2aYgCjBTeBlJrg"
+      }
+    ]
   }
 ]
