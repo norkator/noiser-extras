@@ -3,9 +3,10 @@
 # Noiser Extras
 
 This repository has currently one file which matters called `streams.json` 
-which holds stream service group names and their corresponding stream addresses as array. 
-This data is rendered at https://noiser.io website extra content area and 
-Noiser Android application available 
+which holds stream service group names, origin country and their corresponding stream addresses as array. 
+This data is rendered at https://noiser.io website radio streams which are selectable 
+trough map. Streams are also selectable from extra content area and from 
+Noiser Android application, which is available at 
 [Google Play](https://play.google.com/store/apps/details?id=com.nitramite.noiser).
 
 
