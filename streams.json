@@ -76,5 +76,23 @@
         "audioSrc": "http://n13a-eu.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABe1BmLuAA2aYgCjBTeBlJrg"
       }
     ]
+  },
+  {
+    "name": "Synthwave",
+    "country": "",
+    "streams": [
+      {
+        "queryKey": "nightdrive",
+        "name": "Nightdrive",
+        "icon": null,
+        "audioSrc": "https://nightdrive.stream.laut.fm/nightdrive"
+      },
+      {
+        "queryKey": "8696",
+        "name": "8696",
+        "icon": null,
+        "audioSrc": "https://stream.rcast.net/8696.mp3"
+      }
+    ]
   }
 ]
